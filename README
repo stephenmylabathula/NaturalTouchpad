@@ -1,0 +1,3 @@
+Usage:
+sudo su
+python3 Gesture.py
